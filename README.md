@@ -1,1 +1,3 @@
 "# SmallPythonCode" 
+
+[Python]
