@@ -1,1 +1,1 @@
-"# PartitionsOfAnInt" 
+"# SmallPythonCode" 
